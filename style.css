@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    background-color: #141414;
+    color: #fff;
+}
+
+.logo{
+    width: 10%;
+    margin-left: 15px;
+    cursor: pointer;
+    
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+.more{
+    display: flex;  
+    
+}
+
+.icon{
+    width: 20px;
+}
+
+.icons{
+    display: flex;
+    
+}
+
+.topics{
+    
+    align-items: center;
+}
+
+
+
+
+.featured{
+    background-image:url("photos/jojos.jpg") ;
+}
+
+.title-f{
+
+    margin: 30px;
+}
+
+.desc-f{
+    
+}
