@@ -90,3 +90,20 @@ header{
     padding-right: 10px;
     
 }
+
+h2{
+    font-size: medium;
+}
+
+.p-tendencias{
+    display: flex;
+    justify-content: center;
+    
+}
+.img-tendencias{
+    width: 16%;
+    display: inline;
+    justify-content: center;
+    margin: auto;
+    
+}
